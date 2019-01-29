@@ -1,4 +1,4 @@
 # JDAddressChoose
 仿京东，淘宝 地址3级联动选择，上一级选择完成跳动到下一级展示
 
-![](/Users/liuxiwang/Documents/asangif.gif)
+![](/Users/liuxiwang/Desktop/lxwdemo/JDAddress/asangif.gif)
