@@ -1,0 +1,24 @@
+{
+    "addressList" : [
+    {
+        "address":"北京",
+        "id" : 1
+    },
+    {
+        "address" : "上海",
+        "id" : 2
+    },
+    {
+        "address" : "天津",
+        "id" : 3
+    },
+    {
+        "address" : "重庆",
+        "id" : 4
+    },
+    {
+        "address" : "河北",
+        "id" : 5
+    }
+    ],
+}
